@@ -1,0 +1,11 @@
+package com.imooc.pattern.cor.handler;
+
+public class Manager extends PriceHandler {
+
+	@Override
+	public void processDiscount(float discount) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -2,6 +2,7 @@ package com.imooc.pattern.cor.customer;
 
 import java.util.Random;
 
+import com.imooc.pattern.cor.handler.PirceHandlerFactory;
 import com.imooc.pattern.cor.handler.PriceHandler;
 
 /**
@@ -23,7 +24,7 @@ public class Customer {
 	
 	public static void main(String[] args) {
 		Customer customer = new Customer();
-		customer.setPriceHandler(PriceHandler.createPriceHandler());
+		customer.setPriceHandler(PirceHandlerFactory.createPriceHandler());
 		
 		Random rand = new Random();
 		

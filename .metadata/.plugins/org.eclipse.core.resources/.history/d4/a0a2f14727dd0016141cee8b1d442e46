@@ -1,0 +1,13 @@
+package com.imooc.pattern.cor.customer;
+
+/**
+ * øÕªß,«Î«Û’€ø€
+ * @author ll110
+ *
+ */
+public class Customer {
+	
+	private PriceHandler priceHandler;
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.imooc.pattern.cor.customer;
+
+public class Customer {
+
+}
