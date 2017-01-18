@@ -1,2 +1,5 @@
 1484706740774	Rename type 'ss'
 1484707081477	Delete element
+1484712908204	Move compilation units
+1484712970053	Move member 'createPriceHandler'
+1484713229976	Rename type 'PriceFactory'
